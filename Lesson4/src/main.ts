@@ -34,6 +34,6 @@ type Three = "Hello"
 
 //convert tp more or less specific type 
 
-let a :One = "no"
+let a :One = "Hello"
 let b = a as Two //less specific type 
 let c = a as Three
